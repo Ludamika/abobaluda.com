@@ -69,6 +69,8 @@
         <h1>Добро пожаловать!</h1>
         <a href="./pages/contact.php" class="button contact">Статьи</a>
         <a href="./pages/about.php" class="button about">О нас</a>
+        <a href="/articles.php" class="button articles">Статьи</a>
+        <a href="/pages/add_article.php" class="button add">Добавить статью</a>
     </main>
 
     <footer>
